@@ -1,13 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.168
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28407.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "ServiceFabricTest", "ServiceFabricTest\ServiceFabricTest.sfproj", "{1F0F2E89-0989-423B-A01A-74268D7A20A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.Stateless.Web", "NetCore.Stateless.Web\NetCore.Stateless.Web.csproj", "{9EBBAFE2-701C-4665-B7C9-103148DA7962}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCore.Stateless.Web", "NetCore.Stateless.Web\NetCore.Stateless.Web.csproj", "{9EBBAFE2-701C-4665-B7C9-103148DA7962}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.Stateless.Service", "NetCore.Stateless.Service\NetCore.Stateless.Service.csproj", "{F79E23AA-0EE8-47F9-A15F-6146FFD94093}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCore.Stateless.Service", "NetCore.Stateless.Service\NetCore.Stateless.Service.csproj", "{F79E23AA-0EE8-47F9-A15F-6146FFD94093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.Stateful.Web", "NetCore.Stateful.Web\NetCore.Stateful.Web.csproj", "{B6B82AE9-EBE1-483E-AA02-2C6072FC7D57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.Stateful.Data", "NetCore.Stateful.Data\NetCore.Stateful.Data.csproj", "{119064DC-7C36-4EB0-AA23-AF5F400604F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +45,22 @@ Global
 		{F79E23AA-0EE8-47F9-A15F-6146FFD94093}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F79E23AA-0EE8-47F9-A15F-6146FFD94093}.Release|x64.ActiveCfg = Release|Any CPU
 		{F79E23AA-0EE8-47F9-A15F-6146FFD94093}.Release|x64.Build.0 = Release|Any CPU
+		{B6B82AE9-EBE1-483E-AA02-2C6072FC7D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B82AE9-EBE1-483E-AA02-2C6072FC7D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B82AE9-EBE1-483E-AA02-2C6072FC7D57}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B6B82AE9-EBE1-483E-AA02-2C6072FC7D57}.Debug|x64.Build.0 = Debug|Any CPU
+		{B6B82AE9-EBE1-483E-AA02-2C6072FC7D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B82AE9-EBE1-483E-AA02-2C6072FC7D57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B82AE9-EBE1-483E-AA02-2C6072FC7D57}.Release|x64.ActiveCfg = Release|Any CPU
+		{B6B82AE9-EBE1-483E-AA02-2C6072FC7D57}.Release|x64.Build.0 = Release|Any CPU
+		{119064DC-7C36-4EB0-AA23-AF5F400604F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119064DC-7C36-4EB0-AA23-AF5F400604F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119064DC-7C36-4EB0-AA23-AF5F400604F7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{119064DC-7C36-4EB0-AA23-AF5F400604F7}.Debug|x64.Build.0 = Debug|Any CPU
+		{119064DC-7C36-4EB0-AA23-AF5F400604F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119064DC-7C36-4EB0-AA23-AF5F400604F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{119064DC-7C36-4EB0-AA23-AF5F400604F7}.Release|x64.ActiveCfg = Release|Any CPU
+		{119064DC-7C36-4EB0-AA23-AF5F400604F7}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

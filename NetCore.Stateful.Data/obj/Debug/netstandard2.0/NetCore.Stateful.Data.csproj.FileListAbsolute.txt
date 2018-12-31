@@ -1,0 +1,9 @@
+C:\Users\achakraborty\Documents\test_projects\ServiceFabricTest\NetCore.Stateful.Data\bin\Debug\netstandard2.0\NetCore.Stateful.Data.deps.json
+C:\Users\achakraborty\Documents\test_projects\ServiceFabricTest\NetCore.Stateful.Data\bin\Debug\netstandard2.0\NetCore.Stateful.Data.dll
+C:\Users\achakraborty\Documents\test_projects\ServiceFabricTest\NetCore.Stateful.Data\bin\Debug\netstandard2.0\NetCore.Stateful.Data.pdb
+C:\Users\achakraborty\Documents\test_projects\ServiceFabricTest\NetCore.Stateful.Data\obj\Debug\netstandard2.0\NetCore.Stateful.Data.csprojAssemblyReference.cache
+C:\Users\achakraborty\Documents\test_projects\ServiceFabricTest\NetCore.Stateful.Data\obj\Debug\netstandard2.0\NetCore.Stateful.Data.csproj.CoreCompileInputs.cache
+C:\Users\achakraborty\Documents\test_projects\ServiceFabricTest\NetCore.Stateful.Data\obj\Debug\netstandard2.0\NetCore.Stateful.Data.AssemblyInfoInputs.cache
+C:\Users\achakraborty\Documents\test_projects\ServiceFabricTest\NetCore.Stateful.Data\obj\Debug\netstandard2.0\NetCore.Stateful.Data.AssemblyInfo.cs
+C:\Users\achakraborty\Documents\test_projects\ServiceFabricTest\NetCore.Stateful.Data\obj\Debug\netstandard2.0\NetCore.Stateful.Data.dll
+C:\Users\achakraborty\Documents\test_projects\ServiceFabricTest\NetCore.Stateful.Data\obj\Debug\netstandard2.0\NetCore.Stateful.Data.pdb

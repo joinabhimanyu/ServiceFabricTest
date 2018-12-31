@@ -32,6 +32,7 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\NetCore.Stateful.Web\NetCore.Stateful.Web.csproj" />
     <ProjectReference Include="..\NetCore.Stateless.Service\NetCore.Stateless.Service.csproj" />
     <ProjectReference Include="..\NetCore.Stateless.Web\NetCore.Stateless.Web.csproj" />
   </ItemGroup>
