@@ -11,7 +11,7 @@ namespace NetCore.Stateless.Service
 {
     internal sealed class Service : StatelessService
     {
-        public Service(StatelessServiceContext context)
+		public Service(StatelessServiceContext context)
             : base(context)
         { }
         protected override IEnumerable<ServiceInstanceListener> CreateServiceInstanceListeners()

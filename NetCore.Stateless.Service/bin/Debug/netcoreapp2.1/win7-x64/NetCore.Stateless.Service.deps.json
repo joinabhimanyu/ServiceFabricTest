@@ -10,7 +10,8 @@
       "NetCore.Stateless.Service/1.0.0": {
         "dependencies": {
           "Microsoft.NETCore.App": "2.1.0",
-          "Microsoft.ServiceFabric.Services": "3.3.617"
+          "Microsoft.ServiceFabric.Services": "3.3.617",
+          "System.Windows.Forms": "4.0.0.0"
         },
         "runtime": {
           "NetCore.Stateless.Service.dll": {}
@@ -958,6 +959,38 @@
             "fileVersion": "2.1.26515.5"
           }
         }
+      },
+      "System.Windows.Forms/4.0.0.0": {
+        "runtime": {
+          "System.Windows.Forms.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.7.3056.0"
+          }
+        }
+      },
+      "Accessibility/4.0.0.0": {
+        "runtime": {
+          "Accessibility.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.7.3056.0"
+          }
+        }
+      },
+      "System.Deployment/4.0.0.0": {
+        "runtime": {
+          "System.Deployment.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.7.3056.0"
+          }
+        }
+      },
+      "System.Runtime.Serialization.Formatters.Soap/4.0.0.0": {
+        "runtime": {
+          "System.Runtime.Serialization.Formatters.Soap.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.7.3056.0"
+          }
+        }
       }
     }
   },
@@ -1085,6 +1118,26 @@
       "sha512": "sha512-6b0MX3mW7UgFt95x1xX6ERBPogLIderDrCHy0+BlrE952LCITnpYPUtQYVmNNBbuzqAvYP9t7kPZ7qyNKyHrUQ==",
       "path": "runtime.win-x64.microsoft.netcore.dotnethostresolver/2.1.0",
       "hashPath": "runtime.win-x64.microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512"
+    },
+    "System.Windows.Forms/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Accessibility/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Deployment/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Runtime.Serialization.Formatters.Soap/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

@@ -12,3 +12,8 @@ C:\Users\achakraborty\Documents\test_projects\ServiceFabricTest\NetCore.Stateles
 C:\Users\achakraborty\Documents\test_projects\ServiceFabricTest\NetCore.Stateless.Service\obj\Debug\netcoreapp2.1\win7-x64\NetCore.Stateless.Service.dll
 C:\Users\achakraborty\Documents\test_projects\ServiceFabricTest\NetCore.Stateless.Service\obj\Debug\netcoreapp2.1\win7-x64\NetCore.Stateless.Service.pdb
 C:\Users\achakraborty\Documents\test_projects\ServiceFabricTest\NetCore.Stateless.Service\obj\Debug\netcoreapp2.1\win7-x64\NetCore.Stateless.Service.csprojAssemblyReference.cache
+C:\Users\achakraborty\Documents\test_projects\ServiceFabricTest\NetCore.Stateless.Service\bin\Debug\netcoreapp2.1\win7-x64\System.Windows.Forms.dll
+C:\Users\achakraborty\Documents\test_projects\ServiceFabricTest\NetCore.Stateless.Service\bin\Debug\netcoreapp2.1\win7-x64\Accessibility.dll
+C:\Users\achakraborty\Documents\test_projects\ServiceFabricTest\NetCore.Stateless.Service\bin\Debug\netcoreapp2.1\win7-x64\System.Deployment.dll
+C:\Users\achakraborty\Documents\test_projects\ServiceFabricTest\NetCore.Stateless.Service\bin\Debug\netcoreapp2.1\win7-x64\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\achakraborty\Documents\test_projects\ServiceFabricTest\NetCore.Stateless.Service\obj\Debug\netcoreapp2.1\win7-x64\NetCore.Stateless.Service.csproj.CopyComplete
